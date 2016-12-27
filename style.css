@@ -1,0 +1,204 @@
+#main {
+        height: 1000px;
+        margin: 0;
+        background-color: yellow;
+    }
+    
+    #topBar{
+        background-color: green;
+        height: 70px;
+        
+        position: fixed;
+        width: 100%;
+        z-index: 2;
+    }
+	#extra-links {
+		background-color: white;
+        height: 30px;
+        
+        position: fixed;
+		top:70px;
+        width: 100%;
+        z-index: 2;
+	}
+	
+   #logo{
+	   position: relative;
+	   left: 300px;
+	   bottom:60px;
+   } 
+   #fcbklogo{
+	   position: relative;
+	   left: 135px;
+   }
+   #twiterlogo{
+	   position: relative;
+	   left: 170px;
+   }
+   #instlogo{
+	   position: relative;
+	   left: 130px;
+   }
+   #ytbelogo{
+	  position: relative;
+	   left: 27px;   
+   }
+    #displays {
+        background-color: grey;
+        height: 550px;
+		overflow:scroll;
+    }
+	#display1{
+		position:relative;
+		background:#fff;
+		height:330px;
+		top:100px;
+		
+	}
+	#pict1{
+		width:100%;
+	}
+    h1{
+		color:yellow;
+	}
+	h3{
+		margin-top:-10px;
+		color:white;
+	}
+    #pictMssge1 {
+       background-color:grey;
+       height: 80px;
+	   margin-top:1px;
+		
+    }
+	
+  #display2{
+	   margin-top:10px;
+	   position:relative;
+	   background:#fff;
+	   height:330px;
+	   top:200px;
+		
+	}
+	#pict2{
+	  width:100%;
+	}
+    
+    #pictMssge2 {
+       background-color:grey;
+       height: 80px;
+	   margin-top:1px;
+    }
+	
+    
+	#newsBar{
+		position: absolute;
+		background-color:lightblue;
+		width:400px;
+        height: 1080px;
+	    top:100px;
+		left:900px;
+	}
+	#titre,#titreAd,#titreFin,#titreMedia{
+		position: relative;
+		text-align:center;
+		color:red;
+		padding:5px;
+	}
+	#Fcbk,#tuit,#instagram,#ytbe{
+		
+		font-style: oblique;
+		font-size:150%;
+		padding-top:10px;
+	}
+	#news1Titre,#news2Titre,#news3Titre{
+		padding:10px;
+		color: red;
+		font-size:150%;
+		
+	}
+	#news1Titre:hover{
+		text-decoration:underline;
+	}
+	#news2Titre:hover{
+		text-decoration:underline;
+	}
+	#news3Titre:hover{
+		text-decoration:underline;
+	}
+	#news1source,#news2source,#news3source{
+		font-style: oblique;
+		font-size:100%;
+		padding-top:10px;
+	}
+	
+    #usefull {
+		
+        background-color: #ddd;
+        height: 630px;
+		
+
+    }
+    
+    #calender {
+        
+        background-color: white;
+        height: 600px;
+		
+        
+    }
+
+	table{
+		position: relative;
+	   background-color:rgb(255, 255,255);
+       border-collapse: collapse;
+	   border: 3px solid green;
+       border-spacing: 5px 10px;
+       top:10px;
+	   
+	}
+	th,td {
+          border: 3px solid gray;
+		  text-align:center;
+		  color:green;
+    }
+	th{
+		font-size:bold;
+	}
+	td{
+		font-size:200%;
+	}
+    #admin{
+		
+		text-align:center;
+	}
+	#finAid{
+		
+		text-align:center;
+		
+	}
+	#undergrad,#grad,#undergradFin,#gradFin{
+		font-size:150%;
+		position:relative;
+		
+	}
+	#titreAd,#titreFin{
+		position: relative;
+		padding:10px;
+	}
+	textarea{
+		padding:5px;
+        width: 100%;
+        padding:10px 20px;
+        box-sizing: border-box;
+        font: 30px "Times New Roman", Times, serif;
+     }
+     input{
+      text-shadow: 20px 20px 10px #777777;
+      border-bottom: 1px solid #efefef;
+    }
+    #light {
+        background-color: white;
+        opacity: .6;
+        height: 100%;
+    }
