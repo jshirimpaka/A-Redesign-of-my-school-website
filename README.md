@@ -1,1 +1,2 @@
-# A-Redesign-of-some-s-website
+# A-Redesign of my school website
+
