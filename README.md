@@ -3,7 +3,7 @@
 In this exercise, I redesign the website for the School of Arts and Sciences: one of Washington University's schools. 
 
 
-My goal is to improve the usability, content, and design of the site to make the school more attractive to potential students, and more useful for current students by considering the following objective:
+My goal is to improve the usability, content, and design of the site to make the school more attractive to potential students, and more useful for current students by considering the following objectives:
 
 
 * Audience my site is trying to reach.
